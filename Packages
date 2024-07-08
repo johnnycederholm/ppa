@@ -1,0 +1,20 @@
+Package: obsidian
+Version: 1.6.5
+Architecture: amd64
+Maintainer: Dynalist Inc.
+Installed-Size: 288280
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./obsidian-1.6.5-amd64.deb
+Size: 79244640
+MD5sum: c2258d8da92b773d4c1a2c76c11909c4
+SHA1: 490b2dad30fb3ef8aa27ab30eec362fc75bdd02e
+SHA256: 2998e370edec62d2ab534a4ce2d233bffb7e49bc86cf85412de67017f73e1c8f
+Section: default
+Priority: optional
+Homepage: https://obsidian.md
+Description:
+  Obsidian
+License: UNLICENSED
+Vendor: Dynalist Inc.
+
