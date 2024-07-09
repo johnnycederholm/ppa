@@ -18,3 +18,28 @@ Description:
 License: UNLICENSED
 Vendor: Dynalist Inc.
 
+Package: xfce4-docklike-plugin
+Version: 0.4.0+git20211128-1~mx21+1
+Architecture: amd64
+Maintainer: SwampRabbit <swamprabbit@mxlinux.org>
+Installed-Size: 308
+Depends: libc6 (>= 2.14), libcairo2 (>= 1.2.4), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.21.5), libstdc++6 (>= 5.2), libwnck-3-0 (>= 3.2.0), libx11-6 (>= 2:1.2.99.901), libxfce4panel-2.0-4 (>= 4.11.0), libxfce4ui-2-0 (>= 4.11.0), libxfce4util7 (>= 4.9.0), xfce4-dev-tools, xfce4-panel, xfce4-settings
+Filename: ./xfce4-docklike-plugin_0.4.0+git20211128-1~mx21+1_amd64.deb
+Size: 69808
+MD5sum: 60df29a450e5504f5951b4849d301b5b
+SHA1: 6c56ec2a0276d369e50e2e374f68441bfda7bb9e
+SHA256: a9d14651ede3754ef197c01f7f98fadfc71059419672510077e1cf6bdf6b6f51
+Section: xfce
+Priority: optional
+Multi-Arch: same
+Homepage: https://github.com/davekeogh/xfce4-docklike-plugin
+Description: A modern, docklike, minimalist taskbar for Xfce
+ Features:
+  - Pinnable applications and grouped windows (dock-like)
+  - Use Ctrl to reorder your applications or access the settings panel
+  - Fast application switching by hovering mouse while button pressed
+    or scrolling
+  - Hotkeys: Use Super key to start or switch applications extremely fast
+  - Different indicator styles
+Original-Maintainer: Nicolas Szabo <nszabo@vivaldi.net>, David Keogh <davidtkeogh@gmail.com>
+
